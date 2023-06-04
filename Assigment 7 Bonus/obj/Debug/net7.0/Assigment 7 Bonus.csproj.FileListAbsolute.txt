@@ -1,0 +1,15 @@
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.csproj.AssemblyReference.cache
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.AssemblyInfoInputs.cache
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.AssemblyInfo.cs
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.csproj.CoreCompileInputs.cache
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/bin/Debug/net7.0/Assigment 7 Bonus
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/bin/Debug/net7.0/Assigment 7 Bonus.deps.json
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/bin/Debug/net7.0/Assigment 7 Bonus.runtimeconfig.json
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/bin/Debug/net7.0/Assigment 7 Bonus.dll
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/bin/Debug/net7.0/Assigment 7 Bonus.pdb
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.dll
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/refint/Assigment 7 Bonus.dll
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.pdb
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/Assigment 7 Bonus.genruntimeconfig.cache
+/Users/bunjee/RiderProjects/Assigment 7 Bonus/Assigment 7 Bonus/obj/Debug/net7.0/ref/Assigment 7 Bonus.dll
